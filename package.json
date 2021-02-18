@@ -1,0 +1,7 @@
+{
+    "name": "filter",
+    "version": "1.0.0",
+    "description": "Yo can filter word onn text",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts"
+}
