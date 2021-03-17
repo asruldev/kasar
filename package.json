@@ -1,23 +1,27 @@
 {
-  "name": "kotor",
+  "name": "kasar",
   "version": "1.0.0",
-  "description": "Filter kata-kata kotor",
+  "description": "Filter kata-kata kasar",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "build:check": "tsc --noEmit"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asruldev/kotor.git"
+    "url": "git+https://github.com/asruldev/kasar.git"
   },
   "keywords": [
-    "kotor",
+    "kasar",
     "jorok"
   ],
   "author": "Asrul Harahap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/asruldev/kotor/issues"
+    "url": "https://github.com/asruldev/kasar/issues"
   },
-  "homepage": "https://github.com/asruldev/kotor#readme"
+  "homepage": "https://github.com/asruldev/kasar#readme",
+  "publishConfig": { 
+    "access": "public" 
+  }
 }
