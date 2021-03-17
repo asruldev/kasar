@@ -1,6 +1,6 @@
 {
   "name": "kasar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Filter kata-kata kasar",
   "main": "dist/index.js",
   "scripts": {
