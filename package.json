@@ -1,6 +1,6 @@
 {
   "name": "kasar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter kata-kata kasar",
   "main": "dist/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/asruldev/kasar/issues"
   },
   "homepage": "https://github.com/asruldev/kasar#readme",
-  "publishConfig": { 
-    "access": "public" 
+  "publishConfig": {
+    "access": "public"
   }
 }
