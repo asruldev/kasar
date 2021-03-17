@@ -1,0 +1,1 @@
+export { clearTheWords } from './filter';
