@@ -1,7 +1,23 @@
 {
-    "name": "filter",
-    "version": "1.0.0",
-    "description": "Yo can filter word onn text",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts"
+  "name": "kotor",
+  "version": "1.0.0",
+  "description": "Filter kata-kata kotor",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asruldev/kotor.git"
+  },
+  "keywords": [
+    "kotor",
+    "jorok"
+  ],
+  "author": "Asrul Harahap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asruldev/kotor/issues"
+  },
+  "homepage": "https://github.com/asruldev/kotor#readme"
 }

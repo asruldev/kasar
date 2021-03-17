@@ -1,1 +1,1 @@
-export {sayHello, sayGoodbye} from './filter'
+export {clearTheWords} from './filter'
