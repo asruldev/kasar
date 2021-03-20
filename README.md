@@ -17,3 +17,5 @@ console.log(clearTheWords('Kamu sangat goblok'))
 
 // Kamu sangat g****k
 ```
+
+### Dictionary
