@@ -19,3 +19,4 @@ console.log(clearTheWords('Kamu sangat goblok'))
 ```
 
 ### Dictionary
+Kami masih sangat butuh kumpulan kata-kata kotor agar library ini lebih maksimal
