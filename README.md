@@ -1,11 +1,17 @@
 ## Kasar
 
-**Kasar** is a Typescript or Javascript package that is used to filter profanity in paragraphs
+**Kasar** is a Typescript or Javascript package that is used to filter profanity in paragraphs.
 
 ### How to install
 
 ```bash
 npm install kasar
+```
+
+or 
+
+```bash
+yarn add kasar
 ```
 
 ### How to use
